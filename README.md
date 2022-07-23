@@ -27,4 +27,4 @@
 ## My Application
 ![password generator](./assets/images/password_generator.png)
 
-[Link to Application](https://gilinamcbride.github.io/challenge3-password-generator/)
+[Link to Application](https://gilinamcbride.github.io/password-generator/)
