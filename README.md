@@ -1,5 +1,7 @@
 # Password Generator - Challenge 3
 
+This is a client side site that a user can use to generate a random password based on criteria they’ve selected. Created with Javascript.
+
 ## User Story
 
 * AS AN employee with access to sensitive data
@@ -28,3 +30,7 @@
 ![password generator](./assets/images/password_generator.png)
 
 [Link to Application](https://gilinamcbride.github.io/password-generator/)
+
+## Questions?
+
+For any questions, please email gilinamcbride@gmail.com, or visit any other projects on [Github](github.com/gilinamcbride).
